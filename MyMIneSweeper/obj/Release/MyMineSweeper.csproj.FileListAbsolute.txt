@@ -1,0 +1,11 @@
+C:\Users\Sander\source\repos\MyMIneSweeper\MyMIneSweeper\bin\Release\MyMIneSweeper.exe.config
+C:\Users\Sander\source\repos\MyMIneSweeper\MyMIneSweeper\bin\Release\MyMIneSweeper.exe
+C:\Users\Sander\source\repos\MyMIneSweeper\MyMIneSweeper\bin\Release\MyMIneSweeper.pdb
+C:\Users\Sander\source\repos\MyMIneSweeper\MyMIneSweeper\obj\Release\MyMIneSweeper.ChangeSizeForm.resources
+C:\Users\Sander\source\repos\MyMIneSweeper\MyMIneSweeper\obj\Release\MyMineSweeper.MineButton.resources
+C:\Users\Sander\source\repos\MyMIneSweeper\MyMIneSweeper\obj\Release\MyMIneSweeper.Properties.Resources.resources
+C:\Users\Sander\source\repos\MyMIneSweeper\MyMIneSweeper\obj\Release\MyMineSweeper.csproj.GenerateResource.cache
+C:\Users\Sander\source\repos\MyMIneSweeper\MyMIneSweeper\obj\Release\MyMineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\Sander\source\repos\MyMIneSweeper\MyMIneSweeper\obj\Release\MyMIneSweeper.exe
+C:\Users\Sander\source\repos\MyMIneSweeper\MyMIneSweeper\obj\Release\MyMIneSweeper.pdb
+C:\Users\Sander\source\repos\MyMIneSweeper\MyMIneSweeper\obj\Release\MyMineSweeper.csprojAssemblyReference.cache
