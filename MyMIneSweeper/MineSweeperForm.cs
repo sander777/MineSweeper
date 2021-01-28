@@ -257,7 +257,7 @@ namespace MyMineSweeper
         void ChangeSizeHandler(object s, EventArgs e)
         {
             ChangeSizeForm form = new ChangeSizeForm(H, W, M, ChangeSize);
-            form.Show();
+            form.ShowDialog();
         }
 
         void IncrementTimer(object s, EventArgs e)
